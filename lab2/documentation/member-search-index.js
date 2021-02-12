@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"by.belstu.it.shalunov.basejava","c":"JavaTest","l":"JavaTest()","u":"%3Cinit%3E()"},{"p":"by.belstu.it.shalunov.basejava","c":"JavaTest","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"by.belstu.it.shalunov.basejava","c":"JavaTest","l":"MY_NAME2"},{"p":"by.belstu.it.shalunov.basejava","c":"JavaTest","l":"MY_NAME3"}];updateSearchResults();
