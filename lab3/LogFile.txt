@@ -1,0 +1,24 @@
+Starting program_____________________________
+
+Creating and initializing my IT-company_____________________________
+
+Creating temp files_____________________________
+
+Creating and initializing my manager_____________________________
+
+Adding elements to potrntial employees array_____________________________
+
+Adding employees to temp array_____________________________
+
+Adding employees to my IT-company_____________________________
+
+Printing employees of my IT-company_____________________________
+
+Testing manager functions_____________________________
+
+Calculating and printing number of employees of  my IT-company_____________________________
+
+Sorting employees of  my IT-company by salary_____________________________
+
+Finding employees with certain level of skill_____________________________
+

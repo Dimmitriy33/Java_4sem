@@ -1,0 +1,39 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="it_company">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Workers">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="worker" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="name"/>
+                    <xs:element type="xs:string" name="surname"/>
+                    <xs:element type="xs:string" name="direction"/>
+                    <xs:element type="xs:byte" name="skill"/>
+                    <xs:element type="xs:short" name="salary"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="RecruitmentPlan">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DirectionPlan" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="plandirection"/>
+                    <xs:element type="xs:byte" name="count"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

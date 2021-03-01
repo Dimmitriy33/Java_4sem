@@ -1,0 +1,97 @@
+{
+  "workers": [
+    {
+      "direction": "juniorProgrammer",
+      "salary": 2400.0,
+      "skill": 10,
+      "name": "John",
+      "surname": "Kennedy"
+    },
+    {
+      "direction": "engineer",
+      "salary": 1800.0,
+      "skill": 9,
+      "name": "Isaak",
+      "surname": "Newton"
+    },
+    {
+      "direction": "seniorProgrammer",
+      "salary": 1700.0,
+      "skill": 8,
+      "name": "Abraham",
+      "surname": "Lincoln"
+    },
+    {
+      "direction": "seniorProgrammer",
+      "salary": 1500.0,
+      "skill": 8,
+      "name": "Charles",
+      "surname": "Darwin"
+    },
+    {
+      "direction": "securitySpecialists",
+      "salary": 1100.0,
+      "skill": 7,
+      "name": "Miсhael",
+      "surname": "Faradey"
+    },
+    {
+      "direction": "middleProgrammer",
+      "salary": 1000.0,
+      "skill": 6,
+      "name": "George",
+      "surname": "Washington"
+    },
+    {
+      "direction": "analyst",
+      "salary": 800.0,
+      "skill": 6,
+      "name": "Tsai",
+      "surname": "Lun"
+    },
+    {
+      "direction": "juniorProgrammer",
+      "salary": 400.0,
+      "skill": 4,
+      "name": "Dmitriy",
+      "surname": "Shalunov"
+    },
+    {
+      "direction": "juniorProgrammer",
+      "salary": 300.0,
+      "skill": 3,
+      "name": "Nicolay",
+      "surname": "Copernic"
+    }
+  ],
+  "recruitmentplan": {
+    "engineers": {
+      "direction": "engineers",
+      "count": 2
+    },
+    "analysts": {
+      "direction": "securitySpecialists",
+      "count": 1
+    },
+    "securitySpecialists": {
+      "direction": "analyst",
+      "count": 1
+    },
+    "juniorProgrammer": {
+      "direction": "juniorProgrammer",
+      "count": 3
+    },
+    "middleProgrammer": {
+      "direction": "middleProgrammer",
+      "count": 1
+    },
+    "seniorProgrammer": {
+      "direction": "seniorProgrammer",
+      "count": 2
+    }
+  },
+  "manager": {
+    "name": "Walt",
+    "surname": "Disney"
+  }
+}
