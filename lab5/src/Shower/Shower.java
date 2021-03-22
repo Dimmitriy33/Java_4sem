@@ -51,7 +51,7 @@ public class Shower extends Semaphore {
         Object obj1 = new Object();
         Object obj2 = new Object();
         synchronized (obj1) {System.out.printf("%s female %d goes in%n", female.getGender(), female.getIdent()); }
-        female.sleep(randNum.nextInt(1000) + 1000);
+            female.sleep(randNum.nextInt(1000) + 1000);
         synchronized (obj2) {System.out.printf("f female %d goes out%n", female.getIdent());}
     }
 

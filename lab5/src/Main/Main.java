@@ -10,7 +10,7 @@ import Road.Car;
 public class Main {
     public static void main(String[] args) {
 
-        /*Shower shower = new Shower(2);
+        Shower shower = new Shower(2);
         Male m1 = new Male(1, shower);
         Male m2 = new Male(2, shower);
         Male m3 = new Male(3, shower);
@@ -19,17 +19,17 @@ public class Main {
         Female f2 = new Female(2, shower);
         Female f3 = new Female(3, shower);
         Female f4 = new Female(4, shower);
-        m1.start();
         f1.start();
         f2.start();
+        m1.start();
         m2.start();
         m3.start();
         f3.start();
         m4.start();
-        f4.start();*/
+        f4.start();
 
         //2
-        ReentrantLock locker = new ReentrantLock();
+        /*ReentrantLock locker = new ReentrantLock();
         road Road = new road(3,locker, 'l');
         Car car1 = new Car(1,'l',Road);
         Car car2 = new Car(2,'l',Road);
@@ -50,7 +50,7 @@ public class Main {
         car9.start();
         car4.start();
         car5.start();
-        car10.start();
+        car10.start();*/
 
     }
 
