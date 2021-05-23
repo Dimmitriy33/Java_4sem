@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/it/classpath-ref-test/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/it/custom-task-test/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/it/filesets-test/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/it/properties-test/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../maven-antrun-plugin-3.0.0-source-release/maven-antrun-plugin-3.0.0/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
